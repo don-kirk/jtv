@@ -1,6 +1,6 @@
 #EXTM3U tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szxM2Xd8lwNrVFWCA1l5YZimjdC.jpg"
 
-#EXTINF:0 group-title="SEASON 01", EP 01
+#EXTINF:0 group-title="SEASON 01" type="video" subtitles="https://seriess.club/player/legendas/Titans/Titans.S02E10.WEBRip.x264-ION10_amarela.srt", EP 01
 http://198.50.199.32/files/b4/b4597df4316ceab950cbc04112b26b76
 #EXTINF:0 group-title="SEASON 01", EP 02
 offline
