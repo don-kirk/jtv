@@ -1,0 +1,4 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 type="playlist" channelId="-1", Season 01
+https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s01
