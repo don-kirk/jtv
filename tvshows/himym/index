@@ -1,28 +1,28 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/XAHOn7K.jpg" channelId="-1", Season 01
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/XAHOn7K.jpg" description="Em breve" channelId="-1", Season 1
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s01
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/l8GQRSj.png" channelId="-1", Season 02
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/l8GQRSj.png" description="Em breve" channelId="-1", Season 2
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s02
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/eSJzg39.png" channelId="-1", Season 03
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/eSJzg39.png" description="Em breve" channelId="-1", Season 3
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s03
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/l8GQRSj.png" channelId="-1", Season 04
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/l8GQRSj.png" description="Em breve" channelId="-1", Season 4
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s04
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/z0m0hys.png" channelId="-1", Season 05
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/z0m0hys.png" description="Em breve" channelId="-1", Season 5
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s05
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/1cSOglD.png" channelId="-1", Season 06
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/1cSOglD.png" description="Em breve" channelId="-1", Season 6
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s06
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/Cki4wJN.png" channelId="-1", Season 07
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/Cki4wJN.png" description="Em breve" channelId="-1", Season 7
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s07
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/QDRcCjv.png" channelId="-1", Season 08
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/QDRcCjv.png" description="Em breve" channelId="-1", Season 8
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s08
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/ZNJm37d.png" channelId="-1", Season 09
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/ZNJm37d.png" description="Em breve" channelId="-1", Season 9
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s09
