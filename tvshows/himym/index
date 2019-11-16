@@ -1,6 +1,6 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/XAHOn7K.jpg" description="Em breve" channelId="-1", Season 1
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/XAHOn7K.jpg" description="Disponível" channelId="-1", Season 1
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/s01
 
 #EXTINF:0 type="playlist" logo="https://i.imgur.com/l8GQRSj.png" description="Em breve" channelId="-1", Season 2
