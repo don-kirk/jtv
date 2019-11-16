@@ -3,5 +3,8 @@
 #EXTINF:0 type="playlist" logo="https://i.imgur.com/bBofzts.jpg" channelId="-1", How I Met Your Mother
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/index
 
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" channelId="-1", The Boys
+https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/index
+
 #EXTINF:0 type="playlist" logo="https://i.imgur.com/Ye7wqIK.jpg" channelId="-1", Titans
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/titans/index
