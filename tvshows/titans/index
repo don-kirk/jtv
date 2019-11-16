@@ -1,4 +1,4 @@
-#EXTM3U size="Big"
+#EXTM3U size="Medium"
 
 #EXTINF:0 type="playlist" logo="https://i.imgur.com/wh5fkC8.jpg" description="Indisponível" channelId="-1", Season 01
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/titans/s01
