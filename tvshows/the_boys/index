@@ -1,7 +1,7 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="Dublado" channelId="-1", The Boys
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="Disponível" channelId="-1", The Boys (Dublado)
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/s01_alt
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="Legendado" channelId="-1", The Boys
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="Disponível" channelId="-1", The Boys (Legendado)
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/s01
