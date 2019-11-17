@@ -1,17 +1,17 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/bBofzts.jpg"  description="1 temporada disponível" channelId="-1", How I Met Your Mother
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/bBofzts.jpg"  description="1 temporada" channelId="-1", How I Met Your Mother
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/index
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/x8S7Ols.jpg" description="3 temporadas disponíveis" channelId="-1", Rick and Morty
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/x8S7Ols.jpg" description="3 temporadas" channelId="-1", Rick and Morty
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/rick_and_morty/playlist
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" channelId="-1", The Boys
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="1 temporada" channelId="-1", The Boys
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/playlist
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="1 temporada disponível" channelId="-1", The Boys (Dublado)
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="1 temporada" channelId="-1", The Boys (Dublado)
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/playlist_alt
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/Ye7wqIK.jpg" description="1 temporada disponível" channelId="-1", Titans
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/Ye7wqIK.jpg" description="1 temporada" channelId="-1", Titans
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/titans/index
 
