@@ -1,20 +1,6 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/bBofzts.jpg"  description="2 temporadas" channelId="-1", How I Met Your Mother
-https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/himym/playlist
-
-#EXTINF:0 type="playlist" logo="https://www.themoviedb.org/t/p/original/ocuLo3RGpDuzhjlqTxn9Z1jrbIn.jpg" description="9 temporadas" channelId="-1", King of Queens (PT-BR)
+#EXTINF:0 type="playlist" logo="https://i.imgur.com/rGV26Yo.jpeg" description="9 temporadas" channelId="-1", King of Queens (PT-BR)
 https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/king_of_queens/playlist
 
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/x8S7Ols.jpg" description="3 temporadas" channelId="-1", Rick and Morty
-https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/rick_and_morty/playlist
-
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="1 temporada" channelId="-1", The Boys
-https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/playlist
-
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/AjYKd5A.jpg" description="1 temporada" channelId="-1", The Boys (PT-BR)
-https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/the_boys/playlist_alt
-
-#EXTINF:0 type="playlist" logo="https://i.imgur.com/Ye7wqIK.jpg" description="1 temporada" channelId="-1", Titans
-https://raw.githubusercontent.com/don-kirk/jtv/master/tvshows/titans/index
 
