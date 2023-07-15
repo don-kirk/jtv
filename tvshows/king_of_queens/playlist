@@ -1,6 +1,8 @@
 #EXTM3U description=""
 
 @Season 1
+#EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hF7776l40BHnWVKzvVmalRKcGxn.jpg" group="Temporada 01", O Rei do Bairro S01E01
+http://metv.fun:80/series/1688961650ped/574758/106239.mp4
 #EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yF5IUjwedzaoECgj4qUhIKpBjY6.jpg" group="Temporada 01", O Rei do Bairro S01E02
 http://metv.fun:80/series/1688961650ped/574758/106240.mp4
 #EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iSAardUlK7MWhkYpju4IjJuihEA.jpg" group="Temporada 01", O Rei do Bairro S01E03
