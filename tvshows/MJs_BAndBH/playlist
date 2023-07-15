@@ -1,7 +1,7 @@
 #EXTM3U description=""
 
 @Season 1
-#EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geHeBChJ7WdrGO6S0hckkB0yCGI.jpg" group="Temporada 1",Mike Judge's Beavis and Butt-Head S01E01
+#EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geHeBChJ7WdrGO6S0hckkB0yCGI.jpg" group="Temporada 1" description="Episódio Piloto",Mike Judge's Beavis and Butt-Head S01E00
 http://metv.fun:80/series/1688961650ped/574758/100202.mp4
 #EXTINF:0 type="video" logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gsgNEhKhEOueyc1NfeDHlHB1FnU.jpg" group="Temporada 1",Mike Judge's Beavis and Butt-Head S01E02
 http://metv.fun:80/series/1688961650ped/574758/100203.mp4
